@@ -1,16 +1,16 @@
-## Hi there 👋
+# ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with A Multi-Agent System
 
-<!--
-**ICLRBench/ICLRBench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<font size=3><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[🎯 ICLR 2026 Prediction](https://huggingface.co/datasets/simon123905/ICLR/blob/main/ICLR_2026_Prediction.zip)] [[🤗 Dataset](https://huggingface.co/datasets/simon123905/ICLR/tree/main)] </div></font>
 
-Here are some ideas to get you started:
+## 🔥 News
+* **`2026.01.19`** 🌟 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 News
+* **`2026.01.19`** 🌟 
+
+## :black_nib: Citation
+
+If you find our work helpful for your research, please consider citing our work.   
+
+```bibtex
+```
