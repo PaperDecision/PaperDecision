@@ -1,10 +1,10 @@
 # ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with A Multi-Agent System
 
-<font size=3><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[🎯 ICLR 2026 Prediction](https://huggingface.co/datasets/simon123905/ICLR/blob/main/ICLR_2026_Prediction.zip)] [[🤗 Dataset](https://huggingface.co/datasets/simon123905/ICLR/tree/main)] </div></font>
-
 <p align="center">
     <img src="./asset/paperdecision.jpg" width=75%" height="100%">
 </p>
+
+<font size=3><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[🎯 ICLR 2026 Prediction](https://huggingface.co/datasets/simon123905/ICLR/blob/main/ICLR_2026_Prediction.zip)] [[🤗 Dataset](https://huggingface.co/datasets/simon123905/ICLR/tree/main)] </div></font>
 
 ## 🔥 News
 * **`2026.01.19`** 🌟 We’ve released ICLR 2026 predictions powered by the PaperDecision framework—check them out now!
