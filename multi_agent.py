@@ -2,8 +2,8 @@ import json
 import os
 from typing import List, Dict, Any
 from openai import OpenAI
-# from prompt import *
-from prompt_mind import *
+from prompt import *
+# from prompt_mind import *
 # from utils import *
 from utils_gemini3 import *
 

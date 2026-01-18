@@ -51,6 +51,15 @@ All data in PaperDecision-Bench are sourced from [OpenReview](https://openreview
     <img src="./asset/benchmark.png" width="100%" height="100%">
 </p>
 
+## 🔮 Evaluation Pipeline
+```
+python multi_agent.py
+
+python evaluation_metric.py
+
+python analysis.py
+```
+
 ## :black_nib: Citation
 
 If you find our work helpful for your research, please consider citing our work.   
