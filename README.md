@@ -66,9 +66,7 @@ If you find our work helpful for your research, please consider citing our work.
 
 ```bibtex
 @misc{PaperDecision2026,
-  author       = {Zhang, Yi-Fan and Dong, Yuhao and Xie, Saining and 
-                  Wu, Kai and Wang, Liang and Shan, Caifeng and 
-                  Liu, Ziwei and He, Ran and Zhao, Hao and Fu, Chaoyou},
+  author       = {Zhang, Yi-Fan and Dong, Yuhao and Xie, Saining and Wu, Kai and Wang, Liang and Shan, Caifeng and Liu, Ziwei and He, Ran and Zhao, Hao and Fu, Chaoyou},
   title        = {ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with a Multi-Agent System},
   howpublished = {\url{https://github.com/PaperDecision/PaperDecision}},
   year         = {2026},
